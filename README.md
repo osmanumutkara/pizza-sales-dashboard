@@ -32,6 +32,8 @@ Dashboard sayesinde:
 - Satışların en yoğun gün ve saatleri bulundu.  
 - Hangi kategori ve boyutun daha çok satıldığı analiz edildi.  
 - En çok ve en az satan ürünler listelendi.  
-- Karar vericiler için etkileşimli bir dashboard hazırlandı.  
+- Karar vericiler için etkileşimli bir dashboard hazırlandı.
+
+## Bu proje Data Tutorials kanalındaki SQL & Excel Portfolio Project | Data Analyst Portfolio Project | Excel Project videosu referans alınarak geliştirilmiştir.
 
 
