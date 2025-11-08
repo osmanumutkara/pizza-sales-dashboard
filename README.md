@@ -1,14 +1,19 @@
 # 🍕 Pizza Sales Dashboard & SQL Analysis
-Öncelikle merhaba , ben Osman Umut Kara. Veri analizi ve İş Zekası alanlarında kariyer hedefliyorum. Bu hedef ölçütünde projeler yapıp kendimi geliştiriyorum.
-Bu amaçla yaptığım projelerimden bir tanesini sizlere sunmak istiyorum.
+Hello,
+My name is Osman Umut Kara. I am pursuing a career in Data Analysis and Business Intelligence. In line with this goal, I have been working on various projects to improve my skills.
 
-Bu proje, pizza satış verilerini analiz ederek karar vericilere faydalı içgörüler sunmayı amaçlamaktadır.  
-SQL Server kullanılarak satış verileri üzerinde sorgular çalıştırılmış, ardından Excel ile görselleştirilmiş bir dashboard hazırlanmıştır.  
+I would like to share one of these projects with you.
 
-Dashboard sayesinde:  
-- Satışların en yoğun olduğu gün ve saatler,  
-- En çok ve en az satan pizzalar,  
-- Kategori ve boyuta göre satış dağılımları analiz edilmiştir.
+This project aims to provide valuable insights to decision-makers by analyzing pizza sales data.
+Using SQL Server, queries were executed on the sales data, and an interactive dashboard was created in Excel for visualization.
+
+Through the dashboard, the following insights were obtained:
+
+Peak sales days and hours
+
+Best- and worst-selling pizzas
+
+Sales distribution by category and size
 
 
 ## 📊 Dashboard
@@ -16,24 +21,28 @@ Dashboard sayesinde:
 
 ---
 
-## 📌 Proje İçeriği
-- KPI’lar: Toplam Gelir, Ortalama Sipariş Tutarı, Toplam Satılan Pizza, Toplam Sipariş, Sipariş Başına Ortalama Pizza  
-- Analizler: Günlük Trend, Saatlik Trend, Kategoriye Göre Satış %, Boyuta Göre Satış %, En Çok/En Az Satan Ürünler  
+📌 Project Overview
 
----
+KPIs: Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, Average Pizzas per Order
 
-## 🧰 Kullanılan Araçlar
-- SQL Server (T-SQL)  
-- Microsoft Excel (Pivot Charts & Dashboard)  
+Analyses: Daily Trend, Hourly Trend, Sales by Category (%), Sales by Size (%), Top & Bottom Selling Products
 
----
+🧰 Tools Used
 
-## Çıktı
-- Satışların en yoğun gün ve saatleri bulundu.  
-- Hangi kategori ve boyutun daha çok satıldığı analiz edildi.  
-- En çok ve en az satan ürünler listelendi.  
-- Karar vericiler için etkileşimli bir dashboard hazırlandı.
+SQL Server (T-SQL)
 
-## Bu proje Data Tutorials kanalındaki SQL & Excel Portfolio Project | Data Analyst Portfolio Project | Excel Project videosu referans alınarak geliştirilmiştir.
+Microsoft Excel (Pivot Charts & Dashboard)
+
+Key Outcomes
+
+Identified the busiest sales days and hours.
+
+Analyzed which categories and sizes performed best.
+
+Listed the top- and lowest-selling products.
+
+Designed an interactive dashboard for decision-makers.
+
+This project was developed with reference to the video “SQL & Excel Portfolio Project | Data Analyst Portfolio Project | Excel Project” from the Data Tutorials YouTube channel.
 
 
