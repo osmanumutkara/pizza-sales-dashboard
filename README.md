@@ -31,5 +31,11 @@ Dashboard aracılığıyla şu içgörüler elde edilmiştir:
 
 ### Temel Çıktılar
 
-* En yoğun satış gün
+* En yoğun satış günleri ve saatleri belirlendi.
+* Hangi kategori ve boyutların en iyi performansı gösterdiği analiz edildi.
+* En çok ve en az satan ürünler listelendi.
+* Karar vericiler için etkileşimli bir dashboard tasarlandı.
+
+---
+*Bu proje, Data Tutorials YouTube kanalındaki “SQL & Excel Portfolio Project | Data Analyst Portfolio Project | Excel Project” videosu referans alınarak geliştirilmiştir.*
 
